@@ -2,7 +2,7 @@
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:drawable="@color/colorPrimary" />
     <item>
-        <bitmap android:src="@drawable/alat-logo"
+        <bitmap android:src="@drawable/alat_logo"
                 android:gravity="center" />
     </item>
 </layer-list>
